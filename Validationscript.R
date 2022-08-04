@@ -61,4 +61,4 @@ blandr.draw(Stage_3$Apple,Stage_3$Polar,
             ciDisplay = FALSE,
             ciShading = FALSE, plotProportionalBias = TRUE) +
   theme_classic()
-ggsave("BA_proportionalbias_S3.png")
+ggsave("1-BA_proportionalbias_S3.png")
